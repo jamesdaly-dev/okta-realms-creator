@@ -28,6 +28,18 @@ Before using this application in your environment:
 - **Real-time Results**: View success/failure status for each organization processed with detailed IDs
 - **Material UI**: Professional, responsive interface
 
+## Screenshots
+
+<img width="1225" height="776" alt="Image" src="https://github.com/user-attachments/assets/f9735d77-dd6b-4f10-928c-3753d0739e6d" />
+
+<img width="1225" height="676" alt="Image" src="https://github.com/user-attachments/assets/946370ad-d27b-4f08-828e-429c488c08f6" />
+
+<img width="1009" height="484" alt="Image" src="https://github.com/user-attachments/assets/fc3106bd-0916-4652-a147-bb75f4569ea9" />
+
+<img width="1009" height="609" alt="Image" src="https://github.com/user-attachments/assets/326c0cfc-e044-4b65-8a16-75822a07ba02" />
+
+<img width="873" height="161" alt="Image" src="https://github.com/user-attachments/assets/eb5e084f-a8fe-4ba2-81b2-5ad4b0596fa6" />
+
 ## Tech Stack
 
 ### Frontend
@@ -294,19 +306,6 @@ See [SECURITY.md](SECURITY.md) for detailed security documentation.
 - Verify the authorization server has the `groups` claim configured (see Okta Configuration step 4)
 - Check that the groups claim is included in the access token
 - Try logging out and back in to refresh your token
-
-## Screenshots
-
-<img width="1225" height="776" alt="Image" src="https://github.com/user-attachments/assets/f9735d77-dd6b-4f10-928c-3753d0739e6d" />
-
-<img width="1225" height="676" alt="Image" src="https://github.com/user-attachments/assets/946370ad-d27b-4f08-828e-429c488c08f6" />
-
-<img width="1009" height="484" alt="Image" src="https://github.com/user-attachments/assets/fc3106bd-0916-4652-a147-bb75f4569ea9" />
-
-<img width="1009" height="609" alt="Image" src="https://github.com/user-attachments/assets/326c0cfc-e044-4b65-8a16-75822a07ba02" />
-
-<img width="873" height="161" alt="Image" src="https://github.com/user-attachments/assets/eb5e084f-a8fe-4ba2-81b2-5ad4b0596fa6" />
-
 
 ## Credits
 
